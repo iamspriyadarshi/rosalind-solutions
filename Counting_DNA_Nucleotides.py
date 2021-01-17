@@ -1,3 +1,5 @@
+# Written by Shreyansh Priyadarshi
+# This code can count amount of specific DNA nucleotide in DNA chain.
 DNA = ''
 #paste DNA code above between ''.
 A_count = 0
